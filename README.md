@@ -49,4 +49,4 @@ INSERT CONTACT
 <br> Purpose: Aloows you to sort contacts alphabetically by their name
 <br> Process: Checks if the contact list is empty.
 <br> It then performs a bubble sort on the contacts by swapping adjacent nodes in the list it they are out of order.
-<br> It continues this process until the list is fully sorted, indicated by there being no more swaps that occur dueing a full pass.
+<br> It continues this process until the list is fully sorted, indicated by there being no more swaps that occur during a full pass.
