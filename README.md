@@ -45,7 +45,7 @@ INSERT CONTACT
 <br> The contact is deleted.
 <br> If the contact is not found it prints "Contact not found.
 
-<br> SORTING CONTACTS
+<br> SORTING CONTACT
 <br> Purpose: Aloows you to sort contacts alphabetically by their name
 <br> Process: Checks if the contact list is empty.
 <br> It then performs a bubble sort on the contacts by swapping adjacent nodes in the list it they are out of order.
