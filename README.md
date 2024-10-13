@@ -43,7 +43,7 @@ INSERT CONTACT
 <br> Checks if the contact that needs to be deleted is the first in the list.
 <br> Otherwise it traverses the contact list to find the correct contact.
 <br> The contact is deleted.
-<br> If the contaaact is not found it prints "Contact not found.
+<br> If the contact is not found it prints "Contact not found.
 
 <br> SORTING CONTACTS
 <br> Purpose: Aloows you to sort contacts alphabetically by their name
