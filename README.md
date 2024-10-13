@@ -32,7 +32,7 @@ INSERT CONTACT
 <br> If the list is not empty, it loops through the array and prints each contacts name and phone number.
 
 <br> UPDATE CONTACTS
-<br> Purpose: Allows the updating of a existing contacts name or phone number.
+<br> Purpose: Allows the updating of an existing contacts name or phone number.
 <br> Process: Calls the searchContact function to find the contact by name.
 <br> If the contact is found, it updates updates both the contacts name and phone number.
 <br> If the contact is not found it displays "Contact not found".
