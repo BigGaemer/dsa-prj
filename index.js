@@ -16,7 +16,6 @@ function createWindow() {
 
   win.loadURL(`file://${__dirname}/app/index.html`);
 
-  win.webContents.openDevTools();
 
   // Prevent open new window when user click on a link with shift or ctrl key
   win.webContents.on('new-window', (event) => {

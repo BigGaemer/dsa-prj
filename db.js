@@ -21,7 +21,6 @@ function open(path = '', name = DB_NAME) {
 
   try {
     fileBuffer = fs.readFileSync(dbPath);
-    console.log(dbPath)
   } catch(ex) {
     fs.writeFileSync(dbPath, new Buffer.from(''));
     fileBuffer = fs.readFileSync(dbPath);
