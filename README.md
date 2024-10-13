@@ -1,5 +1,13 @@
 # dsa-prj
 
+| Student number    | Name |
+| -------- | ------- |
+| 224010050  | Shami Kaneza    |
+| 223104353 | Tangeni Michael     |
+| 223055433    | Silas Shaanika    |
+| 224085026    | Ryan Pearson    |
+| 224088653    | Rudolph van der Merwe    |
+
 to run: have nodejs and npm installed (should come from the same package)<br>
 run (in terminal) `npm i`<br>
 run (in terminal) `npm start`
