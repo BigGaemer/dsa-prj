@@ -5,7 +5,7 @@ run (in terminal) `npm i`
 run (in terminal) `npm start`
 
 ## Project Description: 
-Our project is abot an mobile phonebook aplication that allows users to manage a list of contacts using simple data structures such as:
+Our project is about an mobile phonebook aplication that allows users to manage a list of contacts using simple data structures such as:
 <br> Arrays and Linked Lists.
 <br><br>
 Our project has the ability to:
