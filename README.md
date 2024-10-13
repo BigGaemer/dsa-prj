@@ -1,7 +1,7 @@
 # dsa-prj
 
-to run: have nodejs and npm installed (should come from the same package)
-run (in terminal) `npm i`
+to run: have nodejs and npm installed (should come from the same package)<br>
+run (in terminal) `npm i`<br>
 run (in terminal) `npm start`
 
 ## Project Description: 
